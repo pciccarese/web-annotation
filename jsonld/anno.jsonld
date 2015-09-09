@@ -99,9 +99,7 @@
     "membersIn":    {"@id": "ldp:membershipResource", "@type": "@id"},
     "memberRel":    {"@id": "ldp:hasMemberRelation", "@type": "@id"},
     "memberOfRel":  {"@id": "ldp:isMemberOfRelation", "@type": "@id"},
-    "contentRel":   {"@id": "ldp:insertedContentRelation", "@type": "@id"},
+    "contentRel":   {"@id": "ldp:insertedContentRelation", "@type": "@id"}
 
-    "type": {"@type":"@vocab", "@id": "rdf:type"},
-    "id":   { "@type" : "@id", "@id" : "@id"}
   }
 }
